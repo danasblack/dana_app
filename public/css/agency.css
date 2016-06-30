@@ -39,9 +39,9 @@ header{
   text-shadow: 2px 2px black;
 }
 
-.img-circle {
+#experience {
   border-radius: 50%;
-  height: 160px;
+  height: 155px;
 }
 
 #github {
