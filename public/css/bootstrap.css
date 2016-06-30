@@ -1141,11 +1141,11 @@ img {
        -o-transition: all .2s ease-in-out;
           transition: all .2s ease-in-out;
 }
+
 .img-circle {
   border-radius: 50%;
   height: 160px;
 }
-
 
 hr {
   margin-top: 20px;

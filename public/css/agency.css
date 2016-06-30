@@ -38,12 +38,10 @@ header{
 #caption{
   text-shadow: 2px 2px black;
 }
-
-#experience {
+.img-circle {
   border-radius: 50%;
-  height: 155px;
+  height: 160px;
 }
-
 #github {
   height: 35px;
   width: 35px;
