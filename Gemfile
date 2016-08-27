@@ -31,7 +31,6 @@ gem 'rails_12factor', group: :production
 
 gem 'puma'
 
-source "https://rubygems.org"
 gem 'sinatra', '1.0'
 
 # Use ActiveModel has_secure_password
