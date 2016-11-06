@@ -36,6 +36,12 @@ header{
   text-shadow: 2px 2px black;
 }
 
+.btn-xl_2{
+padding-left: 10px;
+padding-right: 10px;
+}
+
+
 #caption{
   text-shadow: 2px 2px black;
 }
