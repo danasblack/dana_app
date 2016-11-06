@@ -13,6 +13,10 @@ header{
   height: 800px;
 }
 
+.btn-xl {
+  margin: 5px;
+  }
+
   header .intro-text{
     padding-top:100px;
     padding-bottom:50px
@@ -36,10 +40,7 @@ header{
   text-shadow: 2px 2px black;
 }
 
-.btn-xl_2{
-padding-left: 10px;
-padding-right: 10px;
-}
+
 
 
 #caption{

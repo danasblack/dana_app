@@ -31,6 +31,8 @@ gem 'rails_12factor', group: :production
 
 gem 'puma'
 
+gem 'bootstrap-sass'
+
 
 
 # Use ActiveModel has_secure_password
