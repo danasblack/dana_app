@@ -51,7 +51,5 @@ header{
   height: 160px;
 }*/
 #github {
-  height: 35px;
-  width: 35px;
-  position: center;
+  text-align: center;
 }
