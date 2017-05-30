@@ -1,3 +1,29 @@
+header{
+  background-image:
+      linear-gradient(
+      rgba(137, 204, 255,0.6),
+      rgba(0, 0, 0, 0.6)
+    ),
+     url('/img/IMG_0477_edited.jpg');
+  background-repeat:none;
+  background-attachment:scroll;
+  background-position:center center;
+  -webkit-background-size:cover;
+  -moz-background-size:cover;
+  background-size:cover;
+  -o-background-size:cover;
+  text-align:center;
+  height: 800px;
+
+}
+
+#contact{
+      background-color:#222;
+      background: linear-gradient(#043D68, #222);
+      background-position:center;
+      background-repeat:no-repeat
+}
+      
 /*
  * This is a manifest file that'll be compiled into application.css, which will include all the files
  * listed below.
