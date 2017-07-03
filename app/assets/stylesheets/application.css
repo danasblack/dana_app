@@ -1,8 +1,8 @@
 header{
   background-image:
       linear-gradient(
-      rgba(137, 204, 255,0.6),
-      rgba(0, 0, 0, 0.6)
+      rgba(70, 88, 147,0.6),
+      rgba(70, 88, 147, 0.2)
     ),
      url('IMG_0477_edited.JPG');
   background-repeat:none;
@@ -13,15 +13,27 @@ header{
   background-size:cover;
   -o-background-size:cover;
   text-align:center;
-  height: 800px;
+  height: 700px;
 
 }
 
+#about_me {
+  color: white;
+  text-align: center;
+}
+
+.text-team{
+  text-align: center;
+  margin-right: auto;
+  margin-left: auto;
+  width: 660px;
+}
+
 #contact{
-      background-color:#222;
-      background: linear-gradient(#043D68, #222);
+      background-image: url('map-image.png');
       background-position:center;
-      background-repeat:no-repeat
+      background-repeat:no-repeat;
+      background-color: #222;
 }
       
 /*
