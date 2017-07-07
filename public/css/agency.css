@@ -53,8 +53,9 @@ section::after {
 
 .about_photo{
   background-color: white;
-  border-style: solid;
+  border: 2px solid;
   border-color: black;
+  border-radius: 5px;
   height:257px;
 }
 
