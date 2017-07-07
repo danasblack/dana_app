@@ -1,8 +1,8 @@
 header{
   background-image:
       linear-gradient(
-      rgba(70, 88, 147,0.6),
-      rgba(70, 88, 147, 0.2)
+      rgba(255, 255, 255,0.7),
+      rgba(255, 255, 255, 0.5)
     ),
      url('IMG_0477_edited.JPG');
   background-repeat:none;
@@ -27,6 +27,8 @@ header{
   margin-right: auto;
   margin-left: auto;
   width: 660px;
+  font-family:"Montserrat","Helvetica Neue",Helvetica,Arial,sans-serif;
+
 }
 
 #contact{
